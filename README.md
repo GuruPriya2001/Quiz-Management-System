@@ -9,7 +9,7 @@ The system evaluates the quiz instantly and displays results.
 Any user can view the leaderboard of any quiz by entering it's code. 
 There is a contact form to take feedback from users.
 
-#Technologies Used:
+Technologies used :
 
 HTML
 CSS
